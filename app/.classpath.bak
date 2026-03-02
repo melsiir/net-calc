@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.buildship.core.gradleclasspathcontainer"/>
+	<classpathentry kind="output" path="bin/default"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-21/"/>
+
+
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.databinding/viewbinding/9.0.0/6935ce1b1f0eeac2a807eb4ebb70930b0649bb95/viewbinding-9.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.databinding-viewbinding-9.0.0.jar"/>
+  <classpathentry kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/intermediates/compile_r_class_jar/debug/generateDebugRFile/R.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.13.0/77bb57868a5e2f045663a7c82ca9749e6eaf24c1/material-1.13.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/com.google.android.material-material-1.13.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout/2.2.1/d6422fade643fbe1d813f0ab5eec74b6cddc59de/constraintlayout-2.2.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.constraintlayout-constraintlayout-2.2.1.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat-resources/1.7.1/cb084bf039d2b49e02cb58e0da0044fed264a4fb/appcompat-resources-1.7.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.appcompat-appcompat-resources-1.7.1.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.appcompat/appcompat/1.7.1/91fc2664fc6ba15f6c431072b24c2133f601383/appcompat-1.7.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.appcompat-appcompat-1.7.1.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.viewpager2/viewpager2/1.0.0/3c3569044e6969f1ee5c3aa03b08e6717a2d782f/viewpager2-1.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.viewpager2-viewpager2-1.0.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.fragment/fragment/1.5.4/5404b0f8aeccb2fe882bee99ef8843711c01c156/fragment-1.5.4-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.fragment-fragment-1.5.4.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.activity/activity/1.12.4/6c046abd7afdc7e78abcd29e8cf580c9168e3957/activity-1.12.4-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.activity-activity-1.12.4.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.emoji2/emoji2-views-helper/1.3.0/70bc75b8c5681fc8d0a4026648950c1cfd90a72/emoji2-views-helper-1.3.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.emoji2-emoji2-views-helper-1.3.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.emoji2/emoji2/1.3.0/788179fcab96cd6ec9a3e284e2a509545dc0fb8d/emoji2-1.3.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.emoji2-emoji2-1.3.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.drawerlayout/drawerlayout/1.1.1/d95f7d9cd7d95cc0c038bbcf9c65f521b56fee55/drawerlayout-1.1.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.drawerlayout-drawerlayout-1.1.1.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.coordinatorlayout/coordinatorlayout/1.1.0/a15529ac349d76a872ae5ef42b84c320c456cd7f/coordinatorlayout-1.1.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.coordinatorlayout-coordinatorlayout-1.1.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.transition/transition/1.5.0/9372d1f39a8d63c3d6ed67688546a789037ac8b0/transition-1.5.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.transition-transition-1.5.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.dynamicanimation/dynamicanimation/1.1.0/b86343035ca5621a570e22afde7d730f4dd2fa65/dynamicanimation-1.1.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.dynamicanimation-dynamicanimation-1.1.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.recyclerview/recyclerview/1.2.1/f0f93e67af3f7417bdd560d5142f6dec4fe629c3/recyclerview-1.2.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.recyclerview-recyclerview-1.2.1.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable-animated/1.1.0/871a7705cd03bc246947638c712cdd11378233ff/vectordrawable-animated-1.1.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.vectordrawable-vectordrawable-animated-1.1.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.vectordrawable/vectordrawable/1.1.0/1e0694477eed874c50c54b547cc3e5a62a57a62b/vectordrawable-1.1.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.vectordrawable-vectordrawable-1.1.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.core/core-ktx/1.16.0/4fe42edd87c0aceaf871cf5dc50fabbcc74d5075/core-ktx-1.16.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.core-core-ktx-1.16.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.loader/loader/1.0.0/b9ef587f3e46c7fe5b00264989764e43ff45cada/loader-1.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.loader-loader-1.0.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.viewpager/viewpager/1.0.0/db045f92188b9d247d5f556866f8861ab68528f0/viewpager-1.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.viewpager-viewpager-1.0.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.customview/customview/1.1.0/be631aafb1eb3f64c9cc57083a21a3321cf2e2e1/customview-1.1.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.customview-customview-1.1.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.core/core/1.16.0/98be8159402f60aa12f9a0914d3136ccb5b0aef0/core-1.16.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.core-core-1.16.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel/2.6.2/dc2aa94a7174f4b67e6923496dc195cbf726a63b/lifecycle-viewmodel-2.6.2-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.lifecycle-lifecycle-viewmodel-2.6.2.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-process/2.6.2/dd039c5f2bbb7b39abdef48c2144039069b7bd7/lifecycle-process-2.6.2-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.lifecycle-lifecycle-process-2.6.2.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata-core/2.6.2/3b4141d2e2e1ff6ddfd8f1990283d579d2e2f7a4/lifecycle-livedata-core-2.6.2-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.lifecycle-lifecycle-livedata-core-2.6.2.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-livedata/2.6.2/7ee67be9804a0951093b89b1115f95facb1d823/lifecycle-livedata-2.6.2-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.lifecycle-lifecycle-livedata-2.6.2.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.6.2/a2a417e26f5d4c961d9621d0540014e1706d0c52/lifecycle-common-2.6.2-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-common/2.6.2/10f354fdb64868baecd67128560c5a0d6312c495/lifecycle-common-2.6.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-runtime/2.6.2/f653a171fc041d7062a83c81458c12f0201bcd6f/lifecycle-runtime-2.6.2-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.lifecycle-lifecycle-runtime-2.6.2.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.lifecycle/lifecycle-viewmodel-savedstate/2.6.2/2d3519967d6ad4b68af5219e6a2bf015c1ed6287/lifecycle-viewmodel-savedstate-2.6.2-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.lifecycle-lifecycle-viewmodel-savedstate-2.6.2.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.savedstate/savedstate/1.2.1/58d4c9fd35e826d3bce813974006451ee9ba4344/savedstate-1.2.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.savedstate-savedstate-1.2.1.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.core/core-viewtree/1.0.0/479ee017137f7dbb52f0402e14b0f216e6b02bc6/core-viewtree-1.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.core-core-viewtree-1.0.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.graphics/graphics-shapes-desktop/1.0.1/36c8b61f1a18fdfc48d9fa20af6a3eb66496e43d/graphics-shapes-desktop-1.0.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.graphics/graphics-shapes-desktop/1.0.1/597f57df1cdd79e249f485b8c2b6d43bdfef9283/graphics-shapes-desktop-1.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.navigationevent/navigationevent-desktop/1.0.2/4a1dd6c564d43a5a81d3ab218726fba309aff76e/navigationevent-desktop-1.0.2-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.navigationevent/navigationevent-desktop/1.0.2/ddb1e7fe97ed51c3d35bba493f97fcf12398719/navigationevent-desktop-1.0.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.9.0/51a2e7b688e0d79d0a9bdafd87b2b40ecc82a7ae/kotlinx-coroutines-android-1.9.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-android/1.9.0/6cf3b8df5a2ce8c6b0dffe55657a827c405ee2fe/kotlinx-coroutines-android-1.9.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.9.0/2d4e1ecf680fbaad910557dbae5077014aeffde1/kotlinx-coroutines-core-jvm-1.9.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlinx/kotlinx-coroutines-core-jvm/1.9.0/9beade4c1c1569e4f36cbd2c37e02e3e41502601/kotlinx-coroutines-core-jvm-1.9.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.versionedparcelable/versionedparcelable/1.1.1/d9085927216387af679d18b6f472bc0fc5c7cc81/versionedparcelable-1.1.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.versionedparcelable-versionedparcelable-1.1.1.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-jvm/1.4.2/1391e2d73ea1c99d7b1350fce136ea1fcd32a893/collection-jvm-1.4.2-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.collection/collection-jvm/1.4.2/bc60b5568a66d765a9fe8e266fd0c6c727e0b50b/collection-jvm-1.4.2.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-experimental/1.4.1/4dc003cb3c5ff16a1c3d09f3d1f7ae7b2d14a9c4/annotation-experimental-1.4.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.annotation-annotation-experimental-1.4.1.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.cursoradapter/cursoradapter/1.0.0/1e323083b41c31fd4d45510dfce50614963c3c6c/cursoradapter-1.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.cursoradapter-cursoradapter-1.0.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.resourceinspection/resourceinspection-annotation/1.0.1/a1c91a3cf63fd51a8e755747186d97585f955ae3/resourceinspection-annotation-1.0.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.resourceinspection/resourceinspection-annotation/1.0.1/8c21f8ff5d96d5d52c948707f7e4d6ca6773feef/resourceinspection-annotation-1.0.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.cardview/cardview/1.0.0/c9f3ce7ca74ad2c978230f4094ba6804c5166f9c/cardview-1.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.cardview-cardview-1.0.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.profileinstaller/profileinstaller/1.4.0/d126d45c480aa74f73ba5bee34a7217f6382c44a/profileinstaller-1.4.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.profileinstaller-profileinstaller-1.4.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-core/1.1.1/d9e0819e39ec9c06ed4530ebea309b06a3c7a42/constraintlayout-core-1.1.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.constraintlayout/constraintlayout-core/1.1.1/f7ab6170b99b9421bd4942846426ff820b552f7d/constraintlayout-core-1.1.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.interpolator/interpolator/1.0.0/fefd5e3cbc479b6b4a9532d05688a1e659e8d3d2/interpolator-1.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.interpolator-interpolator-1.0.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures/1.1.0/a27842adf6c42f3d80893bd46e1de4ac024218e7/concurrent-futures-1.1.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.concurrent/concurrent-futures/1.1.0/50b7fb98350d5f42a4e49704b03278542293ba48/concurrent-futures-1.1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.startup/startup-runtime/1.1.1/714974d4ab4858eab9395d3b048002108b62cf0a/startup-runtime-1.1.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.startup-startup-runtime-1.1.1.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.tracing/tracing/1.2.0/7a8da514613e34b2f3cc6f1d9dc805295d9838a7/tracing-1.2.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.tracing-tracing-1.2.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-runtime/2.2.0/48630ad88f438e5a603ae74cf4858203d1a595c5/core-runtime-2.2.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/projects/net-calc/app/build/aarLibraries/androidx.arch.core-core-runtime-2.2.0.jar"/>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/f3ac1460fc6844d5441595a34591af7fc04fd2e5/core-common-2.2.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.arch.core/core-common/2.2.0/5e1b8b81dfd5f52c56a8d53b18ca759c19a301f3/core-common-2.2.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-jvm/1.9.1/865f245e3c1d595a6b9ae80e622a94907abc58d5/annotation-jvm-1.9.1-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation-jvm/1.9.1/b17951747e38bf3986a24431b9ba0d039958aa5f/annotation-jvm-1.9.1.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-annotation-jvm/1.9.0/47ebad0cc0b59c4817c74a1ed4af6196a1eca64b/runtime-annotation-jvm-1.9.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.compose.runtime/runtime-annotation-jvm/1.9.0/3195cb969ccebf099b765ecbf41e563c73eaf356/runtime-annotation-jvm-1.9.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.2.10/dda98d7e091155886352a100dbca778315baa0f7/kotlin-stdlib-2.2.10-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jetbrains.kotlin/kotlin-stdlib/2.2.10/30de6faa127a4a012db8e71bf1b9c0a99b1402b2/kotlin-stdlib-2.2.10.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/ca5088d615accaabd2aa956b10b236a4e75cfccb/annotations-23.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/23.0.0/8cc20c07506ec18e0834947b84a864bfc094484e/annotations-23.0.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.15.0/794ef8faf8cc26143ae9ed825bfae9c8b6924565/error_prone_annotations-2.15.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/com.google.errorprone/error_prone_annotations/2.15.0/38c8485a652f808c8c149150da4e5c2b0bd17f9a/error_prone_annotations-2.15.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/f1a67bbcf2f9f282baf3821046563983f16ca9b2/jspecify-1.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jspecify/jspecify/1.0.0/7425a601c1c7ec76645a78d22b8c6a627edee507/jspecify-1.0.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/be1234988ac73d61e52e35a912169b06020caa7/listenablefuture-1.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/com.google.guava/listenablefuture/1.0/c949a840a6acbc5268d088e47b04177bf90b3cad/listenablefuture-1.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/5991ca87ef1fb5544943d9abc5a9a37583fabe03/annotations-13.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/org.jetbrains/annotations/13.0/919f0dfe192fb4e063e7dacadee7f8bb9a2672a9/annotations-13.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry sourcepath="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.0.0/c5897dbbda33e66ca6f3224a2534891bbfcbda5a/annotation-1.0.0-sources.jar" kind="lib" path="/data/data/com.termux/files/home/.gradle/caches/modules-2/files-2.1/androidx.annotation/annotation/1.0.0/45599f2cd5965ac05a1488fa2a5c0cdd7c499ead/annotation-1.0.0.jar">
+		<attributes>
+			<attribute name="gradle_used_by_scope" value=""/>
+		</attributes>
+	</classpathentry>
+	<classpathentry output="bin/main" kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="/data/data/com.termux/files/home/.android-sdk/platforms/android-36/android.jar"/>
+</classpath>

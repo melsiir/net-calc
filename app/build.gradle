@@ -1,15 +1,17 @@
 plugins {
-    id 'com.android.application'
+    alias(libs.plugins.android.application)
 }
 
 android {
-    compileSdk 34
-	namespace "com.credit.calc"
-			
+   	namespace "com.credit.calc"
+    compileSdk {
+       version = release(36)
+    }
+    buildToolsVersion  "36.1.0"
     defaultConfig {
         applicationId "com.credit.calc"
         minSdk 28
-        targetSdk 34
+        targetSdk 36
         versionCode 1
         versionName "1.0"
     }
@@ -21,18 +23,31 @@ android {
         }
     }
     compileOptions {
-        sourceCompatibility JavaVersion.VERSION_1_8
-        targetCompatibility JavaVersion.VERSION_1_8
+        sourceCompatibility JavaVersion.VERSION_11
+        targetCompatibility JavaVersion.VERSION_11
     }
-	
+
 	buildFeatures {
-        viewBinding false
-        buildConfig true
+        viewBinding true
+    }
+}
+tasks.register("printCompileClasspath") {
+    notCompatibleWithConfigurationCache("Used only for tooling (jdtls classpath generation)")
+
+    doLast {
+        println("---START---")
+        configurations.debugCompileClasspath.files.each { file ->
+            println(file.absolutePath)
+        }
+        println("---END---")
     }
 }
 
+
 dependencies {
-    implementation 'androidx.appcompat:appcompat:1.7.0-alpha03'
-    implementation 'com.google.android.material:material:1.12.0-alpha03'
-	implementation 'androidx.constraintlayout:constraintlayout:2.2.0-alpha13'	    
+    implementation libs.appcompat
+    implementation libs.material
+    implementation libs.constraintlayout
+    implementation libs.androidx.activity
+    // implementation libs.androidx-core
 }
